@@ -34,5 +34,5 @@ Among all the models, the Artificial Neural Network (ANN) performed the best, ac
 
 ## ✒️ Contributor
 
-### Name : Shreyas Kumar
-LinkedIn : https://www.linkedin.com/in/shreyas-kumar-iitg/
+### Name : Shreya Sen
+LinkedIn : https://www.linkedin.com/in/shreya-sen-2703/
