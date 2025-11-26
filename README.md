@@ -26,7 +26,7 @@ Among all the models, the Artificial Neural Network (ANN) performed the best, ac
 
 
 ### 📈 Performance of the Models based on the Accuracy Scores
-![Screenshot 2024-04-30 013049]
+![Screenshot 2024-04-30 013049](https://github.com/jeet-Abhi123/Road-Safety-Data-Analysis-Power-BI-/assets/143840497/a2ea486f-0400-4193-8c19-bd196093a132)
 
 ![Screenshot 2024-04-30 011339]
 
